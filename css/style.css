@@ -1,0 +1,25 @@
+button {
+    padding: 8px 5px;
+    border-radius: 5px;
+    
+    
+}
+
+td {
+    font-weight: 700;
+}
+
+#pomo {
+    padding: 8px 30px;
+    border-radius: 5px;
+}
+#apply {
+    background-color: rgba(190, 10, 10, 0.87);
+    font-weight: 600;
+    padding: 8px 20px;
+    
+}
+
+button:hover {
+    background: white;
+}
